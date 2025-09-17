@@ -96,7 +96,7 @@ It was developed by **Facebook in 2012** and released publicly in **2015**.
   }
 
 
-##✅ Advantages of GraphQL
+## ✅ Advantages of GraphQL
 ```bash
 
 - Flexible and efficient data fetching.
@@ -108,7 +108,7 @@ It was developed by **Facebook in 2012** and released publicly in **2015**.
 - Faster development cycles.
 ```
 
-  ##⚠️ Limitations
+  ## ⚠️ Limitations
 ```bash
 - Complex setup compared to REST.
 
@@ -118,7 +118,7 @@ It was developed by **Facebook in 2012** and released publicly in **2015**.
 
 - Caching is more challenging than REST.
 ```
-  ##🏁 Conclusion
+  ## 🏁 Conclusion
 ```bash
 - GraphQL is a modern alternative to REST APIs, offering flexibility, performance, and better developer experience.
 - If your app requires dynamic and complex data fetching, GraphQL is a great choice.
